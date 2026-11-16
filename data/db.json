@@ -1,0 +1,33 @@
+{
+  "members": [
+    {
+      "id": "member-01",
+      "code": "Member 01",
+      "name": "Member 01",
+      "role": "Instagram & Content Strategist",
+      "avatarUrl": "/src/assets/images/member_avatar_01_1794839952270.jpg"
+    },
+    {
+      "id": "member-02",
+      "code": "Member 02",
+      "name": "Member 02",
+      "role": "Email & Lifecycle Specialist",
+      "avatarUrl": "/src/assets/images/member_avatar_02_1794839951915.jpg"
+    },
+    {
+      "id": "member-03",
+      "code": "Member 03",
+      "name": "Member 03",
+      "role": "Facebook Ads & Campaign Lead",
+      "avatarUrl": "/src/assets/images/member_avatar_03_1794839953403.jpg"
+    }
+  ],
+  "submissions": [],
+  "settings": {
+    "teamName": "SAGOR MARKETING TEAM",
+    "tagline": "Grow Together • Achieve More",
+    "dailyActivityTarget": 50,
+    "weeklyActivityTarget": 250,
+    "compactTables": false
+  }
+}
